@@ -565,7 +565,7 @@ Parent.childContextTypes = {
 
 ## Inspiration
 
-This package was inspired by the work from people's work on the following projects:
+This package was inspired from people's work on the following projects:
 - [glamorous][glamorous]
 - [styled-components](https://github.com/styled-components/styled-components)
 - [jsxstyle](https://github.com/smyte/jsxstyle)
